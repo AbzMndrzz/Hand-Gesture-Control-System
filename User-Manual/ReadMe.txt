@@ -1,3 +1,4 @@
 
-The files are too large So you need to download the files and view it.
+The files contains videos which cannot be viewd in raw mode.
+Please Download the files.
 Thank You!!!

@@ -12,7 +12,7 @@
 
 <h1>GUI Interface</h1><br>
 <img
-  src="app-interface/About .png"
+  src="app-interface/Control page.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 

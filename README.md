@@ -11,7 +11,11 @@
 </ul><br>
 
 <h1>GUI Interface</h1><br>
-![Control page](https://user-images.githubusercontent.com/87758653/236287386-e2a2431e-3da8-482c-9229-2e8a7ce4352f.png)
+<img
+  src="/app-interface/About.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 

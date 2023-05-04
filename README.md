@@ -11,6 +11,6 @@
 </ul><br>
 
 <h1>GUI Interface</h1><br>
-![](app-interface/Control%20page.png)
+![](app-interface/About.png)
 
 

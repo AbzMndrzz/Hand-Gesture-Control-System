@@ -11,6 +11,6 @@
 </ul><br>
 
 <h1>GUI Interface</h1><br>
-![](app-interface/About.png)
+❮img src="app-interface/About.png" ❯
 
 

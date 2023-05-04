@@ -11,6 +11,7 @@
 </ul><br>
 
 <h1>GUI Interface</h1><br>
-❮img src="app-interface/About.png" ❯
+![Control page](https://user-images.githubusercontent.com/87758653/236287386-e2a2431e-3da8-482c-9229-2e8a7ce4352f.png)
+
 
 

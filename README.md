@@ -11,6 +11,7 @@
 </ul><br>
 
 <h1>GUI Interface</h1><br>
+<h2> Home Interface</h2>
 <img
   src="app-interface/Control page.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">

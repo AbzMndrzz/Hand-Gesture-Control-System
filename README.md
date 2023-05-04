@@ -14,7 +14,7 @@
 <h2> Home Interface</h2>
 <img
   src="app-interface/Control page.png"
-  style="display: inline-block; margin: 0 auto; width: 200px; height: 200px;">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
   
 <h2> User Manual</h2>
 <img

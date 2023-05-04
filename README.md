@@ -16,9 +16,14 @@
   src="app-interface/Control page.png"
   style="display: inline-block; margin: 0 auto; max-width: 100px">
   
-<h2> User Manual</h2>
+<h2> User Manual Interface</h2>
 <img
   src="app-interface/User manual.png"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
+  
+<h2> About Interface</h2>
+<img
+  src="app-interface/About .png"
   style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 

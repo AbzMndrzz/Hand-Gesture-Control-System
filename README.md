@@ -4,9 +4,13 @@
 <h1>Features Controlled</h1><br>
 <ul>
   <li>Volume</li>
-  <li>Brightnes</li>
+  <li>Brightness</li>
   <li>Mouse</li>
   <li>Media</li>
   <li>Three In One</li>
-</ul>
+</ul><br>
+
+<h1>GUI Interface</h1><br>
+![Control page](https://user-images.githubusercontent.com/87758653/236284209-579dff3e-9cf1-4ecf-b681-92f1dd7887a7.png)
+
 

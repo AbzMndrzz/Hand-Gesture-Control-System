@@ -11,6 +11,6 @@
 </ul><br>
 
 <h1>GUI Interface</h1><br>
-![Control page](https://user-images.githubusercontent.com/87758653/236284209-579dff3e-9cf1-4ecf-b681-92f1dd7887a7.png)
+![](app-interface/control.png)
 
 
